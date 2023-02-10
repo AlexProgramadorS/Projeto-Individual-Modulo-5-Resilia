@@ -18,6 +18,12 @@ desenvolvedores no dia a dia com CSS?
 </p>
 
 ### 📋 CONFIGURAÇÕES:
+<p> Para executar este projeto, instale-o localmente usando npm:</p>
+
+```
+$ npm install readline-sync
+
+```
 
 ### :toolbox: TECNOLOGIAS USADAS:
 <div align="center" style="display: inline_block">

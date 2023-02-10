@@ -19,5 +19,5 @@ desenvolvedores no dia a dia com CSS?
 
 ### :toolbox: TECNOLOGIAS USADAS:
 <div align="center" style="display: inline_block">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" style="height:20px; width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>

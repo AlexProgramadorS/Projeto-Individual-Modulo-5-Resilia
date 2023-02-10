@@ -19,5 +19,5 @@ desenvolvedores no dia a dia com CSS?
 
 ### :toolbox: TECNOLOGIAS USADAS:
 <div align="center" style="display: inline_block">
-<img align="center" src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png">
+<img align="center" src="https://img.icons8.com/win10/600/000000/node-js.png">
 </div>

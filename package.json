@@ -1,0 +1,9 @@
+{
+  "name": "trabalhoindividualmodulo5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

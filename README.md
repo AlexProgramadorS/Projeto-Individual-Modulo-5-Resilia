@@ -38,6 +38,7 @@ desenvolvedores no dia a dia com CSS?
 $ npm install readline-sync
 
 ```
+<p>Documentação do readline-sync https://www.npmjs.com/package/readline-sync<p>
 <br><br>
 
 ### TESTE DA APLICAÇÃO:

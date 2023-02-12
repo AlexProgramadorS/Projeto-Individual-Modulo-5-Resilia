@@ -35,7 +35,7 @@ desenvolvedores no dia a dia com CSS?
 <p> Para executar este projeto, instale-o localmente usando npm:</p>
 
 ```
-$ npm install readline-sync
+npm install readline-sync
 
 ```
 <p>Documentação: https://www.npmjs.com/package/readline-sync<p>

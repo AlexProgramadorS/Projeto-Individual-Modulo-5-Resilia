@@ -35,10 +35,10 @@ $ npm install readline-sync
 <p>Adicionando propriedades do CSS:</p>
 <img src ="https://media.discordapp.net/attachments/1056426877159473215/1074189492287721482/image.png">
 
-<p>Exibindo listagem de propriedades adicionadas:</p>
+<p>Exibindo a lista das propriedades ordenadas de A-Z:</p>
 <img src="https://media.discordapp.net/attachments/1056426877159473215/1074189648487784587/image.png">
 
-<p>Saindo da aplicação e exibindo propriedades:</p>
+<p>Saindo da aplicação e exibindo a lista das propriedades ordenadas de A-Z:</p>
 <img src="https://media.discordapp.net/attachments/1056426877159473215/1074190941583314974/image.png">
 
 

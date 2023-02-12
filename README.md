@@ -14,15 +14,6 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 </p>
 
 <br>
-
-## Índice:
-* [CONTEXTO](#CONTEXTO)
-* [CONFIGURAÇÕES](#CONFIGURAÇÕES)
-* [TESTE DA APLICAÇÃO](#TESTE-DA-APLICAÇÃO)
-* [TECNOLOGIAS USADAS](#TECNOLOGIAS-USADAS)
-
-<br><br>
-
 ### 📄 CONTEXTO:
 <p> Algumas soluções podem impactar muitas pessoas, ainda mais na
 tecnologia. Que tal criar uma ferramenta no terminal que vai auxiliar

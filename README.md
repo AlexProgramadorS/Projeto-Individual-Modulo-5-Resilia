@@ -53,5 +53,5 @@ npm install readline-sync
 
 ### :toolbox: TECNOLOGIAS USADAS:
 <div align="center" style="display: inline_block">
-<img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img style="height:50px; width:50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg">
 </div>

@@ -14,6 +14,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 </p>
 
 <br>
+
 ### 📄 CONTEXTO:
 <p> Algumas soluções podem impactar muitas pessoas, ainda mais na
 tecnologia. Que tal criar uma ferramenta no terminal que vai auxiliar

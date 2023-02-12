@@ -1,5 +1,5 @@
 ## Projeto individual modulo 5 Resilia - Facilitando o dia a dia
-<p> Projeto Individual correspondente ao modulo 3 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Madureira, Rio de Janeiro.</p>
+<p> Projeto Individual correspondente ao modulo 5 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Madureira, Rio de Janeiro.</p>
 
 <br><br>
 

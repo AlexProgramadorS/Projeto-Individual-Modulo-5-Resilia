@@ -29,16 +29,16 @@ $ npm install readline-sync
 
 <p> Abaixo consta exemplos de testes realizados na aplicação desenvolvida.</p>
 
-<p>Iniciando a aplicação</p>
+<p>Iniciando a aplicação:</p>
 <img src="https://media.discordapp.net/attachments/1056426877159473215/1074187867414343760/image.png">
 
-<p>Adicionando propriedades do CSS</p>
+<p>Adicionando propriedades do CSS:</p>
 <img src ="https://media.discordapp.net/attachments/1056426877159473215/1074189492287721482/image.png">
 
-<p>Exibindo listagem de propriedades adicionadas</p>
+<p>Exibindo listagem de propriedades adicionadas:</p>
 <img src="https://media.discordapp.net/attachments/1056426877159473215/1074189648487784587/image.png">
 
-<p>Saindo da aplicação e exibindo propriedades</p>
+<p>Saindo da aplicação e exibindo propriedades:</p>
 <img src="https://media.discordapp.net/attachments/1056426877159473215/1074190941583314974/image.png">
 
 

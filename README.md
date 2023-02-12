@@ -1,9 +1,9 @@
-### Projeto individual modulo 5 Resilia - Facilitando o dia a dia
+## Projeto individual modulo 5 Resilia - Facilitando o dia a dia
 <p> Projeto Individual correspondente ao modulo 3 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Madureira, Rio de Janeiro.</p>
 
 <br><br>
 
-## :computer: SOBRE O PROJETO:
+### :computer: SOBRE O PROJETO:
 <p> Usar o Node para montar um código que vai receber uma lista de
 propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver
 essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a
@@ -23,7 +23,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 <br><br>
 
-## 📄 CONTEXTO:
+### 📄 CONTEXTO:
 <p> Algumas soluções podem impactar muitas pessoas, ainda mais na
 tecnologia. Que tal criar uma ferramenta no terminal que vai auxiliar
 desenvolvedores no dia a dia com CSS?
@@ -31,7 +31,7 @@ desenvolvedores no dia a dia com CSS?
 
 <br><br>
 
-## 📋 CONFIGURAÇÕES:
+### 📋 CONFIGURAÇÕES:
 <p> Para executar este projeto, instale-o localmente usando npm:</p>
 
 ```
@@ -40,7 +40,7 @@ $ npm install readline-sync
 ```
 <br><br>
 
-## TESTE DA APLICAÇÃO:
+### TESTE DA APLICAÇÃO:
 
 <p> Abaixo consta exemplos de testes realizados na aplicação desenvolvida.</p>
 
